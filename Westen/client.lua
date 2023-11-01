@@ -24,5 +24,5 @@ AddEventHandler('Westen:bproof', function()
 -- anim
 -- armour
 -- skin
-
+    end)
 end)
